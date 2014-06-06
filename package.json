@@ -1,0 +1,33 @@
+{
+  "name": "meri-rpg",
+  "version": "0.0.0",
+  "description": "Meri RPG core library",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://Erid@github.com/Erid/meri-rpg.git"
+  },
+  "keywords": [
+    "meri",
+    "rpg"
+  ],
+  "author": "Elías Baldioceda",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Erid/meri-rpg/issues"
+  },
+  "homepage": "https://github.com/Erid/meri-rpg",
+  "dependencies": {
+    "coffee-script": "^1.7.1",
+    "mongodb": "^1.4.5"
+  },
+  "devDependencies": {
+    "mocha": "^1.20.1"
+  }
+}
